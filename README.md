@@ -1,4 +1,4 @@
-## *KMCLib* - a general framework for lattice kinetic Monte Carlo (KMC) simulations
+### *KMCLib* - a general framework for lattice kinetic Monte Carlo (KMC) simulations
 
 ### License and copying
 
